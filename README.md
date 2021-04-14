@@ -33,6 +33,9 @@
 <code><img height="20" src="https://avatars.githubusercontent.com/u/65541985?s=200&v=4"></code>
 <code><img height="20" src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4"></code>
 <code><img height="20" src="https://avatars.githubusercontent.com/u/1412239?s=200&v=4"></code>
+<code><img height="20" src="https://avatars.githubusercontent.com/u/70142?s=200&v=4"></code>
+
+[![Gabe's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabinochacon8)](https://github.com/gabinochacon8/github-readme-stats)
 
 
 <!--
