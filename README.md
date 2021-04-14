@@ -17,8 +17,8 @@
 
   <img align="right" alt="GIF" src="https://bestanimations.com/media/peripherals/572585373computer-monitor-animated-gif-5.gif" width="600" height="320" />
   
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
+- 🌍 Wherever I may, I am always willing to help!
+- 📫 How to reach me: [@gabechacon](https://twitter.com/abhisheknaiidu);
 - 📝 [Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view)
 
 **Languages and Tools:**  
@@ -30,6 +30,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://avatars.githubusercontent.com/u/5658226?s=200&v=4"></code>
+<code><img height="20" src="https://avatars.githubusercontent.com/u/65541985?s=200&v=4"></code>
+<code><img height="20" src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4"></code>
+<code><img height="20" src="https://avatars.githubusercontent.com/u/1412239?s=200&v=4"></code>
+
 
 <!--
 **gabinochacon8/gabinochacon8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
