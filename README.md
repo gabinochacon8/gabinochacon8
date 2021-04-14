@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hey all 🤗 
+### I'm Gabe! I am a Full Stack Software Engineer. Please enjoy my page!! 🤙
 
 <!--
 **gabinochacon8/gabinochacon8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
