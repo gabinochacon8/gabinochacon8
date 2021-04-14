@@ -15,7 +15,7 @@
 ### About Me
 ##### I am a Marine Veteran who found his love of coding and solving problems in late 2019. At that time I was doing small classes on Udemy and Code Academy, and messing around with Javascript in IDEs. I first got introduced to the wonderful world of code while traveling around in South America. I had been traveling for a year and wanted to keep going, but I knew it would end because I needed money. Then I met a gentleman during breakfast at a hostel in Peru working off his laptop. I asked him what he did, and he told me he freelanced for a startup company. I was immediately intrigued and looked it up that day. That was when I realized I can do something I love, while doing something I love!
 
-  <img align="right" alt="GIF" src="https://bestanimations.com/media/peripherals/572585373computer-monitor-animated-gif-5.gif" width="550" height="320" />
+  <img align="right" borderRadius=1 alt="GIF" src="https://bestanimations.com/media/peripherals/572585373computer-monitor-animated-gif-5.gif" width="550" height="320" />
   
 - 🌍 Wherever I may be, I am always happy to help!
 - 📫 Best way to reach me: [Gabe Chacon-In](https://www.linkedin.com/in/gabe-chacon-0862531b3/);
