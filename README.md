@@ -17,9 +17,9 @@
 
   <img align="right" alt="GIF" src="https://bestanimations.com/media/peripherals/572585373computer-monitor-animated-gif-5.gif" width="600" height="320" />
   
-- 🌍 Wherever I may, I am always willing to help!
-- 📫 How to reach me: [@gabechacon](https://twitter.com/abhisheknaiidu);
-- 📝 [Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view)
+- 🌍 Wherever I may be, I am always happy to help!
+- 📫 Best way to reach me: [Gabe Chacon-In](https://www.linkedin.com/in/gabe-chacon-0862531b3/);
+- 📝 [Resume](https://drive.google.com/file/d/155--GKEoYezLYII1oq06e2IUsKig-hck/view?usp=sharing)
 
 **Languages and Tools:**  
 
