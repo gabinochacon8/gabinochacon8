@@ -15,6 +15,22 @@
 ### About Me
 ##### I am a Marine Veteran who found his love of coding and solving problems in late 2019. At that time I was doing small classes on Udemy and Code Academy, and messing around with Javascript in IDEs. I first got introduced to the wonderful world of code while traveling around in South America. I had been traveling for a year and wanted to keep going, but I knew it would end because I needed money. Then I met a gentleman during breakfast at a hostel in Peru working off his laptop. I asked him what he did, and he told me he freelanced for a startup company. I was immediately intrigued and looked it up that day. That was when I realized I can do something I love, while doing something I love!
 
+  <img align="right" alt="GIF" src="https://bestanimations.com/media/peripherals/572585373computer-monitor-animated-gif-5.gif" width="500" height="320" />
+  
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
+- 📝 [Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view)
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
 <!--
 **gabinochacon8/gabinochacon8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
