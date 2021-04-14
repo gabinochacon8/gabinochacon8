@@ -11,7 +11,6 @@
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=gabinochacon8.gabinochacon8)
-<img src="">
 
 <!--
 **gabinochacon8/gabinochacon8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
