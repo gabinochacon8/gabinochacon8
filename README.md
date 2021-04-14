@@ -3,7 +3,7 @@
 <a href="https://twitter.com/GabeChacon130">
   <img align="left" alt="Gabe Chacon | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="linkedin.com/in/gabe-chacon-0862531b3/">
+<a href="https://linkedin.com/in/gabe-chacon-0862531b3/">
   <img align="left" alt="Gabe's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/22txkb2eqfqasavn6kvllnf6y?si=Qm8sLmO8Rc-z3Jt3DGkVkQ">
