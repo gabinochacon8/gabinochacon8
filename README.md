@@ -20,7 +20,7 @@
 - 🌍  Wherever I may be, I am always happy to help!
 - 📫  Best way to reach me: [Gabe Chacon-in](https://www.linkedin.com/in/gabe-chacon-0862531b3/);
 - 📝  [Resume](https://drive.google.com/file/d/155--GKEoYezLYII1oq06e2IUsKig-hck/view?usp=sharing)
-- [My Portfolio](http://gabechacon.com/)
+- 🖥  [My Portfolio](http://gabechacon.com/)
 
 **Languages and Tools:**
 
