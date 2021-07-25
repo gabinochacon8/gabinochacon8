@@ -21,7 +21,7 @@
   <img align="right" style="border-radius: 10px" alt="GIF" src="https://bestanimations.com/media/peripherals/572585373computer-monitor-animated-gif-5.gif" width="550" height="320" />
   
 - 🌍  Wherever I may be, I am always happy to help!
-- 👨🏽‍💻  Currently working on my Vendicator Application that I wish to launch
+- 👨🏽‍💻  Currently working on my Vendicator Application that I wish to launch soon on iOS and Android
 - 📫  Best way to reach me: [Gabe Chacon-in](https://www.linkedin.com/in/gabe-chacon-0862531b3/);
 - 📝  [Resume](https://drive.google.com/file/d/155--GKEoYezLYII1oq06e2IUsKig-hck/view?usp=sharing)
 - 🖥  [My Portfolio](http://gabechacon.com/)
