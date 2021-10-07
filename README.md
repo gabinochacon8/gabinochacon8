@@ -23,7 +23,7 @@
 - 🌍  Wherever I may be, I am always happy to help!
 - 👨🏽‍💻  Currently working on my Vendicator Application that I wish to launch soon on iOS and Android
 - 📫  Best way to reach me: [Gabe Chacon-in](https://www.linkedin.com/in/gabe-chacon-0862531b3/);
-- 📝  [Resume](https://drive.google.com/file/d/155--GKEoYezLYII1oq06e2IUsKig-hck/view?usp=sharing)
+- 📝  [Resume](https://drive.google.com/file/d/155--GKEoYezLYII1oq06e2IUsKig-hck/view?usp=sharing){:target="_blank"}
 - 🖥  [My Portfolio](http://gabechacon.com/)
 
 <br>
