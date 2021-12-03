@@ -17,6 +17,7 @@
 
 <br>
 <br>
+<br>
 
   <img align="right" style="border-radius: 10px" alt="GIF" src="https://bestanimations.com/media/peripherals/572585373computer-monitor-animated-gif-5.gif" width="550" height="320" />
   
